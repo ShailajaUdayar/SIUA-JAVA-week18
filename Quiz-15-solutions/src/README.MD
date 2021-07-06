@@ -21,4 +21,4 @@ MAPS:
 
 GOOD LUCK
 
-Adding comment on text file
+Adding comment to text file
